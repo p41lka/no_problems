@@ -16,12 +16,12 @@
 		},
 		{
 			"Name": "DialogueSx",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/401cd4398af24470a14e79637f383d4e"
 		},
 		{
 			"Name": "MounteaDialogueSystem",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ea38ae1f87b24807a66fdf4fa65ef521"
 		}
 	]
