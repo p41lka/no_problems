@@ -37,5 +37,13 @@
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"HoloLens",
+		"Linux",
+		"LinuxArm64",
+		"TVOS",
+		"Windows"
 	]
 }
